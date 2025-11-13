@@ -3,3 +3,4 @@ pillow
 pygetwindow
 pymsgbox
 mouseinfo
+pynput
