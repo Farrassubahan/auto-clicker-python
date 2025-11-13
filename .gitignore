@@ -1,0 +1,40 @@
+# ===== Python umum =====
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*$py.class
+
+# ===== Environment / Virtual Env =====
+venv/
+env/
+.venv/
+.env/
+
+# ===== PyInstaller build files =====
+build/
+dist/
+*.spec
+
+# ===== Log / Cache =====
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+
+# ===== IDE / Editor =====
+.vscode/
+.idea/
+*.iml
+
+# ===== Output executable =====
+*.exe
+*.dll
+*.bin
+
+# ===== Misc =====
+# File sementara dari Windows / macOS
+desktop.ini

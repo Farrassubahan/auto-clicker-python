@@ -1,0 +1,5 @@
+pyautogui
+pillow
+pygetwindow
+pymsgbox
+mouseinfo
